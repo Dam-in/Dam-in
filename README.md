@@ -37,8 +37,8 @@
 
 ✅ **Registered Patent**
 &nbsp;&nbsp;— System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, Korean Patent No. 10-2798273 · `Jul 2024`
-&nbsp;&nbsp;— System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model  
-&nbsp;&nbsp;&nbsp;&nbsp;Korean Patent No. 10-2788099 · `Jul 2024`
+
+&nbsp;&nbsp;— System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model. Korean Patent No. 10-2788099 · `Jul 2024`
 
 ---
 
