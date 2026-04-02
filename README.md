@@ -12,11 +12,8 @@
 ## 🧑‍💻 Experience
 
 **- Research Intern** · Statistical Artificial Intelligence Lab · KAIST `Sep 2025 – Present`
-
 **- Software Engineer** · Chipsnmedia, Inc. `Aug 2024 – Apr 2025`
-
 **- AI Engineer** · INEEJI Co., Ltd. `Dec 2021 – May 2024`
-
 **- B.S. Software and Communications Engineering** · Hongik University `Mar 2019 – Aug 2023`
 
 ---
