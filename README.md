@@ -46,16 +46,14 @@ Statistical Artificial Intelligence Lab, KAIST · `2025 –`
 
 ## 🚀 Projects
 
-| Project | Stack |
-|---|---|
-| 🏭 EAF Energy Efficiency System Using Chemical Energy | `Optimization` `Process Engineering` |
-| ⚗️ No.2 RHDS Fractionator & Separator Optimization | `AI` `Oil Refining` |
-| 🚦 Traffic Congestion Prediction & Signal Control Optimization | `Computer Vision` `Reinforcement Learning` |
-| 📦 Box Mispack Image Classification System | `Computer Vision` `Manufacturing` |
-| 👗 AR Virtual Clothing Fitting System 🏅 | `AR` `Grand Prize` |
-| 🙋 Face Recognition Automatic Attendance System | `Computer Vision` `Python` |
-| 🛒 Purchase Prediction Using User Behavior Data | `ML` `Behavioral Analytics` |
-| 🏥 Cancer Diagnosis Prediction Based on Medical Data | `ML` `Healthcare` |
+- 🏭 EAF Energy Efficiency System Using Chemical Energy
+- ⚗️ No.2 RHDS Fractionator & Separator Optimization
+- 🚦 Traffic Congestion Prediction & Signal Control Optimization
+- 📦 Box Mispack Image Classification System
+- 👗 AR Virtual Clothing Fitting System 🏅
+- 🙋 Face Recognition Automatic Attendance System
+- 🛒 Purchase Prediction Using User Behavior Data
+- 🏥 Cancer Diagnosis Prediction Based on Medical Data
 
 ---
 
