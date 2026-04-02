@@ -23,8 +23,8 @@
 
 ## 🔬 Research
 
-**Neuron-Level Polysemanticity Analysis**  
-Statistical Artificial Intelligence Lab, KAIST · `2025 –`
+- **Neuron-Level Polysemanticity Analysis**  
+&nbsp;&nbsp;&nbsp;&nbsp;Statistical Artificial Intelligence Lab, KAIST · `2025 –`
 
 ---
 
