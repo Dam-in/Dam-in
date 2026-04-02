@@ -1,6 +1,5 @@
 # Hi, I'm Damin Lee 👋
 
-**AI/ML Researcher & Engineer** · Theory meets production
 
 ![KAIST](https://img.shields.io/badge/KAIST-SAIL_Intern-1D9E75?style=flat-square&logo=academia&logoColor=white)
 ![AI Engineer](https://img.shields.io/badge/AI-Engineer-378ADD?style=flat-square&logo=pytorch&logoColor=white)
@@ -9,39 +8,30 @@
 
 ---
 
-## 🧑‍💻 Experience
-
-- **Research Intern** · Statistical Artificial Intelligence Lab · KAIST `Sep 2025 – Present`
-
-- **Software Engineer** · Chipsnmedia, Inc. `Aug 2024 – Apr 2025`
-
-- **AI Engineer** · INEEJI Co., Ltd. `Dec 2021 – May 2024`
-
-- **B.S. Software and Communications Engineering** · Hongik University `Mar 2019 – Aug 2023`
+### 🧑‍💻 Experience
+- **Research Intern** | Statistical Artificial Intelligence Lab | KAIST  (Sep. 2025 – Present)
+- **Software Engineer** | Chipsnmedia, Inc.  (Aug. 2024 – Apr. 2025)
+- **AI Engineer** | INEEJI Co., Ltd.  (Dec. 2021 – May 2024)
+- **B.S. Software and Communications Engineering** | Hongik University  (Mar. 2019 – Aug. 2023)
 
 ---
 
-## 🔬 Research
+### 🔬 Research
 
 - **Neuron-Level Polysemanticity Analysis**
 
 ---
 
-## 🏆 Awards & Patents
+### 🏆 Awards & Patents
 
-🥇 **Grand Prize** — AR Virtual Fitting Service  
-&nbsp;&nbsp;&nbsp;&nbsp;19th Hongik University Software Convergence Symposium · `Nov 2022`
-
-📋 **Applied Patent**
-- Method for Controlling Signals at Intersection and Device for Performing Same, `PCT-KR2024-001413` · `Aug 2024`
-
-✅ **Registered Patent**
-- System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, `Korean Patent No. 10-2798273` · `Jul 2024`  
-- System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model. `Korean Patent No. 10-2788099` · `Jul 2024`
+- **Grand Prize** | AR Virtual Fitting Service | 19th Hongik University Software Convergence Symposium
+- **Applied Patent** | Method for Controlling Signals at Intersection and Device for Performing Same, PCT-KR2024-001413
+- **Registered Patent** | System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, Korean Patent No. 10-2798273
+- **Registered Patent** | System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model, Korean Patent No. 10-2788099
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 - 🏭 EAF Energy Efficiency System Using Chemical Energy
 - ⚗️ No.2 RHDS Fractionator & Separator Optimization
