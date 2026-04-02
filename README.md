@@ -32,12 +32,12 @@
 🥇 **Grand Prize** — AR Virtual Fitting Service  
 &nbsp;&nbsp;&nbsp;&nbsp;19th Hongik University Software Convergence Symposium · `Nov 2022`
 
-📋 **Applied Patent** — Method for Controlling Signals at Intersection and Device for Performing Same  
-&nbsp;&nbsp;&nbsp;&nbsp;PCT-KR2024-001413 · `Aug 2024`
+📋 **Applied Patent**
+- Method for Controlling Signals at Intersection and Device for Performing Same, `PCT-KR2024-001413` · `Aug 2024`
 
 ✅ **Registered Patent**
-- System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, Korean Patent No. 10-2798273 · `Jul 2024`  
-- System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model. Korean Patent No. 10-2788099 · `Jul 2024`
+- System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, `Korean Patent No. 10-2798273` · `Jul 2024`  
+- System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model. `Korean Patent No. 10-2788099` · `Jul 2024`
 
 ---
 
