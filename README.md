@@ -19,6 +19,7 @@
 ### 🔬 Research
 
 - **Neuron-Level Polysemanticity Analysis**
+- **Concept Evolution**
 
 ---
 
