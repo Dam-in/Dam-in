@@ -18,8 +18,8 @@
 
 ### 🔬 Research
 
-- **Neuron-Level Polysemanticity Analysis**
-- **Concept Evolution**
+- Measuring Polysemanticity | Submitted to ECCV 2026 (Under Review)
+- Concept Direction in Diffusion Models
 
 ---
 
