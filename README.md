@@ -18,8 +18,8 @@
 
 ### 🔬 Research
 
+- Discovering Generalizable Concept Directions in Diffusion Models | KCC 2026 XAI Workshop (Spotlight)
 - Measuring Polysemanticity | Submitted to ECCV 2026 (Under Review)
-- Concept Direction in Diffusion Models
 
 ---
 
