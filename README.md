@@ -18,8 +18,8 @@
 
 ### 🔬 Research
 
-- Discovering Generalizable Concept Directions in Diffusion Models | KCC 2026 XAI Workshop (Spotlight)
-- Measuring Polysemanticity | Submitted to ECCV 2026 (Under Review)
+- [Discovering Generalizable Concept Directions in Diffusion Models](https://github.com/Dam-in/concept_direction) | KCC 2026 XAI Workshop (Spotlight)
+- SPICE: Simple Polysemantic feature Interpretation via Clustering-based Explanations | ECCV 2026
 
 ---
 
