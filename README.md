@@ -19,7 +19,7 @@
 ### 🔬 Research
 
 - [Discovering Generalizable Concept Directions in Diffusion Models](https://github.com/Dam-in/concept_direction) | KCC 2026 XAI Workshop (Spotlight)
-- SPICE: Simple Polysemantic feature Interpretation via Clustering-based Explanations | ECCV 2026
+- [SPICE: Simple Polysemantic feature Interpretation via Clustering-based Explanations](https://github.com/sehyun-lee288/spice-icml26-mech-interp) | ECCV 2026
 
 ---
 
