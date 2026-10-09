@@ -25,6 +25,7 @@
 
 ### 🚀 Projects
 
+- 🔌 [PnPXAI: Plug-and-Play Explainable AI](https://github.com/OpenXAIProject/pnpxai)
 - 🏭 EAF Energy Efficiency System Using Chemical Energy
 - ⚗️ No.2 RHDS Fractionator & Separator Optimization
 - 🚦 Traffic Congestion Prediction & Signal Control Optimization
