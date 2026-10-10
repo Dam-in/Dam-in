@@ -37,15 +37,6 @@
 
 ---
 
-### 🏆 Awards & Patents
-
-- **Grand Prize** | AR Virtual Fitting Service | 19th Hongik University Software Convergence Symposium
-- **Applied Patent** | Method for Controlling Signals at Intersection and Device for Performing Same, PCT-KR2024-001413
-- **Registered Patent** | System for Managing Optimal Operating Point of Oil Refining Process and Predicting Quality of Refined Oil Product Using AI Model, Korean Patent No. 10-2798273
-- **Registered Patent** | System for Suggesting the Optimal Operating Point Reflecting the Economic Feasibility of the Oil Refining Process Using AI Model, Korean Patent No. 10-2788099
-
----
-
 <div align="center">
 
 🎓 **KAIST** SAIL Intern &nbsp;|&nbsp; 📄 **3** Patents &nbsp;|&nbsp; 🏭 **2+** Companies &nbsp;|&nbsp; 🧪 **8+** Projects
